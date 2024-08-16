@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Header from "./layout/Header";
 import DeviceForm from "./components/DeviceForm";
 import DeviceList from "./components/DeviceList";
-import "./styles/App.css";
+import "./styles/app.css";
 
 interface Device {
   deviceName: string;
